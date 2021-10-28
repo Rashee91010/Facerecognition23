@@ -1,0 +1,19 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0;
+}
+body{
+    background-size:cover;
+    background-position:center;
+}
+.objects,#resultobject,#resultaccuracy{
+    color:rgb(255, 5, 5);
+    font-size:25px;
+    width:100%;
+}
+#camera,#result{
+    border:2px solid chocolate;
+    width:350px;
+    height:300px;
+}
